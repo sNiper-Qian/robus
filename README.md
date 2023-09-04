@@ -1,4 +1,4 @@
-# [Reinforcement Learning Based Acoustic Window Planning for Intercostal Liver Ultrasound Scan]
+# Reinforcement Learning Based Acoustic Window Planning for Intercostal Liver Ultrasound Scan
 
 This repository contains the code for the paper:
 
