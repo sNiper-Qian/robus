@@ -11,8 +11,8 @@ The trained policies and the blender context file can be downloaded from https:/
 
 1. Clone this repository:
    ```bash
-   git clone [repository-link]
-   cd [repository-name]
+   git clone https://github.com/sNiper-Qian/robus.git
+   cd robus
     ```
 2. Create virtual environment and install the dependencies:
     ```bash
