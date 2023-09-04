@@ -4,6 +4,9 @@ This repository contains the code for the paper:
 
 **Reinforcement Learning Based Acoustic Window Planning for Intercostal Liver Ultrasound Scan** 
 
+## Data download
+The trained policies and the blender context file can be downloaded from https://drive.google.com/file/d/1fj0ZFA3JapaNW1-o54-QwUCnHgStwZMr/view?usp=drive_link
+
 ## Instructions
 
 1. Clone this repository:
