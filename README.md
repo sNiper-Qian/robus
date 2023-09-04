@@ -27,6 +27,7 @@ The trained policies and the blender context file can be downloaded from https:/
     python main.py --mode='test' --checkpoint_path='experiment/train_folder/checkpoint.pth'
     ```
 5. For testing the model with visualization:
+
     Firstly, change the value of 'RENDER' to True in config.yaml file 
     
     Secondly, change the checkpoint path to the path of the checkpoint file and the video folder id in the main function of tester.py file
